@@ -1,0 +1,42 @@
+h1 {
+    background-color: red;
+    color: white;
+    text-shadow: 0cqmin;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: darkblue;
+}
+
+p {
+    color: darkblue;
+}
+
+p {
+    background-color: rgb(50, 0, 130);
+    color: white;
+}
+
+li {
+    color: darkblue;
+}
+
+footer {
+    background-color: rgb(50, 0, 130);
+    color: aliceblue;
+}
+
+body {
+    background-image: url(typr.jpeg.jpeg);
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: auto;
+    box-sizing: auto;
+    background-position: center;
+    background-size: cover;
+
+}
